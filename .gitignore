@@ -1,0 +1,42 @@
+# ===== Archivos del sistema operativo =====
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+desktop.ini
+$RECYCLE.BIN/
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# ===== OneDrive  =====
+*.tmp
+~$*
+
+# ===== Editores / IDEs =====
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+
+
+# ===== Node =====
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# ===== Variables de ento =====
+.env
+.env.*
+secrets.json
+config.local.js
+
+# ===== Respaldos y temporales =====
+*.bak
+*.old
+*.log
+_backup/
